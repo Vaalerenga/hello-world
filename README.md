@@ -1,5 +1,4 @@
 # hello-world
-First Repository
 Hello, I'm Vaalerenga
 
 I'm a beginner and I want to learn how to code with the possibility of becoming a software developer. 
